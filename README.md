@@ -23,7 +23,7 @@ Users should be able to:
 ### Challenges with this project  : 
 - Learning accessibility, I have been reading about ARIA.
 - I'm also trying to adjust font sizes for mobiles. I think I need to use `clamp()` or `calc()` and adapt the `font-size` to the vw, but I didn't spend too much time on it besides reading some documentations. 
-- I'm not sure if I got the `:hover` effect right, I supposed the shadow was expanding when hovering the card component, and the color was changing when hovering the title.  *This could be a good challenge making them both change when hovering the card, I'm not sure how I would do it without using any Javascript*
+- I'm not sure if I got the `:hover` effect right, I supposed the shadow was expanding when hovering the card component, and the color was changing when hovering the title.  *This could be a good challenge making them both change when hovering the card, I'm not sure how to do it without using any Javascript*
 
 ### Built with
 
