@@ -41,7 +41,7 @@ main {
 }
 
 .card:hover {
-    box-shadow: 1rem 1rem;
+    box-shadow: 1rem 1rem var(--black);
 }
 
 /* Article (inside of card Component) */
