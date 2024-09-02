@@ -20,11 +20,6 @@ Users should be able to:
 - Live Site URL: [https://dev-paull.github.io/blog-preview-card/](https://dev-paull.github.io/blog-preview-card/)
 
 
-### Challenges with this project  : 
-- Learning accessibility, I have been reading about ARIA.
-- I'm also trying to figure out how to shrink text on mobile devices only. I think I need to use `clamp()` or `calc()` and adapt the `font-size` to the vw, but I didn't spend too much time on it besides reading some documentations. 
-- I'm not sure if I got the `:hover` effect right. I supposed the shadow was expanding when hovering the card component, and the color was changing when hovering the title. 
-
 ### Built with
 
 - Semantic HTML5 markup
